@@ -6,7 +6,8 @@ import ReactDOM from 'react-dom';
 //import Lesson3 from './03_state/Lesson.jsx';
 //import Lesson4 from './04_props/Lesson.jsx';
 //import { Lesson, Counter, Button } from './05_props/Lesson.jsx';
-import App from './06_events/Lesson.jsx';
+//import App from './06_events/Lesson.jsx';
+import App from './07_conditional_rendering/Lesson.jsx';
 import * as serviceWorker from './serviceWorker';
 
 // React.createElement('div', null, 'Simple div with text');
